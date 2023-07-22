@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+
+.Planos {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+
+}
+
+.infoPlanos {
+  margin-bottom: 5%;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+}
+
+.image {
+  display: block; /* Necessário para o margin funcionar */
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 40%;
+  margin-top: 3%;
+}

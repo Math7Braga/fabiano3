@@ -1,0 +1,7 @@
+.image{
+    display: block; /* Necessário para o margin funcionar */
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 50%;
+    margin-top: 3%;
+}
